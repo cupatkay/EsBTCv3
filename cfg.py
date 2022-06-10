@@ -1,4 +1,4 @@
-cookie = "xxxxxxxx"
-uid = "xxxxxx"
-user_agent = "xxxxxxxx"
+cookie = "_ga=GA1.2.285691603.1654824638;_gid=GA1.2.581084438.1654824638;__gads=ID=4315436124227e3d-22c88775fed30032:T=1654824772:RT=1654824772:S=ALNI_MZGf05PnHR0Agu7XIIDcZcvxe2zRw;esfaucetInform=Question : Is the bitcoin/Cryptocurrency bull run over ?;cf_clearance=_OvvxkETY8ooDmOqx7RIvRZA1N3ocNvJEsaTNgiB9ww-1654828448-0-150;laravel_session=eyJpdiI6Im1IZHFKb254eUoxakdsTENDQ0F3eVE9PSIsInZhbHVlIjoiZUdJZHdxVHFsZ1Z6c3JcL29LS3BXbGV2NDZXT2RSb1Y0d0RFSVNsMUlmU1F6MW5meU44aCtlWURoTlhYbTJFWkl6TXlFSXNwdjRtb0VRazI5MW5yNzFtT01IZExpMVAybXRKQTYyYUdWVVNSM3NBYnQzQVNxVTBac1kwQ1o0eW1mIiwibWFjIjoiZWViNjdjZjIzNGUxMGIyMGUzYmM0Njk5ZjRkNjdhYTFiNGUwNWRmZDViOTNhMWY5ZWIwMTgxNDdjMWJjZjUyOCJ9;__gpi=UID=000006842092c51c:T=1654824772:RT=1654854488:S=ALNI_MYgw4NVM8BHfvS05g9ArVmgvhD_tA;_gat=1"
+uid = "Mozilla/5.0 (Linux; Android 12; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.98 Mobile Safari/537.36
+user_agent = "413427"
 hash_ini = 0
